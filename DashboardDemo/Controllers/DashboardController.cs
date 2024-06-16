@@ -16,5 +16,9 @@ namespace DashboardDemo.Controllers
         {
             return View();
         }
+        public IActionResult Register1234566()
+        {
+            return View();
+        }
     }
 }
